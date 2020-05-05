@@ -1,2 +1,2 @@
 # Godis
-a NoSQL databse that supports HTTP &amp; RESP with Golang.
+NoSQL databse that supports HTTP &amp; RESP with Golang.
